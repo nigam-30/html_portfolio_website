@@ -58,9 +58,8 @@ Styling: CSS3
   
 Typography: Google Fonts (Inter & JetBrains Mono)
 
-Deployment
-[![Vercel](https://img.shields.io/badge/Vercel-Live_Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://nigamportfoliowebsite.vercel.app/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Site-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://nigam-30.github.io/nigam_portfolio/)
+- 🚀 **Vercel:** [https://nigamportfoliowebsite.vercel.app/](https://nigamportfoliowebsite.vercel.app/)
+- 🌐 **GitHub Pages:** [https://nigam-30.github.io/html_portfolio_website/](https://nigam-30.github.io/html_portfolio_website/)
 
 💻 Local Preview & Testing
 You can open and test the website on any modern browser without installing any compilers, build tools, or Node modules:
