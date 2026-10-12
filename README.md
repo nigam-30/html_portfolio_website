@@ -1,6 +1,6 @@
 A modern, high-performance digital hardware and semiconductor engineering portfolio for **Nigam Mehta**, an Electronics Engineering student specializing in **VLSI Design & Technology** at Shah & Anchor Kutchhi Engineering College (SAKEC), Mumbai. 
 Engineered exclusively using **semantic HTML5** and **modern CSS3** with **zero JavaScript dependencies** to demonstrate core web standards, accessibility, fluid responsive layouts, and pure-CSS interactive systems.
-[![Live Site](https://img.shields.io/badge/Live_Site-htmlportfoliowebsite.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://nigamportfoliowebsite.vercel.app/)
+[![Live Site](https://img.shields.io/badge/Live_Site-https://nigamportfoliowebsite.vercel.app/-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://nigamportfoliowebsite.vercel.app/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-nigam--30-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nigam-30)
