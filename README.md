@@ -67,47 +67,16 @@ Typography: Google Fonts (Inter & JetBrains Mono)
 
   
 Deployment: Vercel
- / GitHub Pages
 
-  
-
-  
-
-  
 💻 Local Preview & Testing
-
-  
-
 You can open and test the website on any modern browser without installing any compilers, build tools, or Node modules:
-
-
-  
 1. Direct Launch
-
-  
-
 Simply double-click index.html or open it with Google Chrome, Microsoft Edge, or Firefox.
-
-
-  
 2. Using Local HTTP Server (Optional)
-
-  
 bash
 # Using Python 3
 python -m http.server 3000
-
-  
-
 Visit http://localhost:3000 in your browser.
-
-
-  
-
-  
 📄 License & Attribution
-
-  
-
 Designed and engineered by Nigam Mehta
 . Open for personal showcase and portfolio reference.
