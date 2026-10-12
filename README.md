@@ -60,8 +60,8 @@ Typography: Google Fonts (Inter & JetBrains Mono)
 
   
 Deployment: 
-Vercel:(https://nigamportfoliowebsite.vercel.app/)
-Github Pages: (https://nigamportfoliowebsite.vercel.app/)
+Vercel:[https://nigamportfoliowebsite.vercel.app/]
+Github Pages: [https://nigamportfoliowebsite.vercel.app/]
 
 💻 Local Preview & Testing
 You can open and test the website on any modern browser without installing any compilers, build tools, or Node modules:
