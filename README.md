@@ -56,9 +56,6 @@ Nigam_HTML_CSS_Portfolio/
 │   ├── Credence-Core_Project_Report.pdf
 │   ├── Rail_Nova_Project_Report.pdf
 │   └── Telecom_Churn_Analysis_Report.pdf
-├── screenshots/                 # Captured verification viewports
-│   ├── desktop.png              # Desktop viewport test (1440px)
-│   └── mobile.png               # Mobile viewport test (390px)
 └── README.md                    # Project documentation & compliance checklist
 ```
 
@@ -85,7 +82,6 @@ All requirements from `HTML_CSS_Internship_Project_Guide.pdf` are satisfied:
 | **Flexbox & Grid** | Modern CSS layout engines | ✅ Passed | Grid used for projects, skills, and about sections; Flexbox for header, hero, and cards. |
 | **Responsive Design** | Usable on mobile (360/390px), tablet (768px), desktop (1440/1920px) | ✅ Passed | Fully tested across all viewports; zero horizontal overflow. |
 | **Hover & Focus** | Hover and focus states on links/buttons | ✅ Passed | Interactive hover transitions, focus outlines, and card elevation effects. |
-| **Screenshots** | Desktop and mobile screenshots | ✅ Passed | Included in `screenshots/desktop.png` and `screenshots/mobile.png`. |
 
 ---
 
